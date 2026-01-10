@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yuri\\Desktop\\web _2\\html5up-escape-velocity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuri\\Desktop\\web _2\\html5up-escape-velocity\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuri\\Desktop\\web _2\\html5up-escape-velocity\\right-sidebar.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:right-sidebar.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuri\\Desktop\\web _2\\html5up-escape-velocity\\no-sidebar.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:no-sidebar.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuri\\Desktop\\web _2\\html5up-escape-velocity\\left-sidebar.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:left-sidebar.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\yuri\\Desktop\\web _2\\html5up-escape-velocity\\assets\\css\\main.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\css\\main.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "right-sidebar.html",
+              "DocumentMoniker": "C:\\Users\\yuri\\Desktop\\web _2\\html5up-escape-velocity\\right-sidebar.html",
+              "RelativeDocumentMoniker": "right-sidebar.html",
+              "ToolTip": "C:\\Users\\yuri\\Desktop\\web _2\\html5up-escape-velocity\\right-sidebar.html",
+              "RelativeToolTip": "right-sidebar.html",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAANAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-02T02:48:37.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "no-sidebar.html",
+              "DocumentMoniker": "C:\\Users\\yuri\\Desktop\\web _2\\html5up-escape-velocity\\no-sidebar.html",
+              "RelativeDocumentMoniker": "no-sidebar.html",
+              "ToolTip": "C:\\Users\\yuri\\Desktop\\web _2\\html5up-escape-velocity\\no-sidebar.html",
+              "RelativeToolTip": "no-sidebar.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-02T02:47:41.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "left-sidebar.html",
+              "DocumentMoniker": "C:\\Users\\yuri\\Desktop\\web _2\\html5up-escape-velocity\\left-sidebar.html",
+              "RelativeDocumentMoniker": "left-sidebar.html",
+              "ToolTip": "C:\\Users\\yuri\\Desktop\\web _2\\html5up-escape-velocity\\left-sidebar.html",
+              "RelativeToolTip": "left-sidebar.html",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAK0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-01-02T02:45:46.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\yuri\\Desktop\\web _2\\html5up-escape-velocity\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\yuri\\Desktop\\web _2\\html5up-escape-velocity\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAH4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-30T06:19:31.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Users\\yuri\\Desktop\\web _2\\html5up-escape-velocity\\assets\\css\\main.css",
+              "RelativeDocumentMoniker": "assets\\css\\main.css",
+              "ToolTip": "C:\\Users\\yuri\\Desktop\\web _2\\html5up-escape-velocity\\assets\\css\\main.css",
+              "RelativeToolTip": "assets\\css\\main.css",
+              "ViewState": "AgIAAN0HAAAAAAAAAADwv+sHAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-23T06:43:24.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
