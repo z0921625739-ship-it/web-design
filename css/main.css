@@ -86,7 +86,7 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
-	body.is-preload *, body.is-preload *:before, body.is-preload *:after {
+	body. *, body.is-preload *:before, body. *:after {
 		-moz-animation: none !important;
 		-webkit-animation: none !important;
 		-ms-animation: none !important;
